@@ -1,1 +1,1 @@
-Its a a star visualization program build in pyton.
+Its a A star algorithm visualization program build in pyton.
